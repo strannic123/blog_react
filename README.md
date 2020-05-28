@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Приложение React + Redux + axios + react-redux + redux-thunk + lodash
 
-## Реализовано подключение по API к сайту jsonplaceholder.typicode.com. Выводит по запросу посты пользователей title/иконка/name.
+## Реализовано подключение по API к сайту jsonplaceholder.typicode.com. Выводит по запросу посты пользователей title/icon/name.
     Изучалась реализация обработки входящих данных т.е  уменьшение количества запросов к сайту по API. Необходимо было 
     убрать из запросов те которые дублировались(10 авторов - 100 постов/ 1 автор = 10 постов).
     Реализованно двумя способами.
